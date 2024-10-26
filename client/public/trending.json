@@ -1,0 +1,430 @@
+{
+    "metadata": "Top gainers, losers, and most actively traded US tickers",
+    "last_updated": "2023-12-01 16:15:58 US/Eastern",
+    "top_gainers": [
+        {
+            "ticker": "VSACW",
+            "price": "0.0191",
+            "change_amount": "0.0166",
+            "change_percentage": "664.0%",
+            "volume": "500"
+        },
+        {
+            "ticker": "HCDIZ",
+            "price": "0.004",
+            "change_amount": "0.0031",
+            "change_percentage": "344.4444%",
+            "volume": "26020"
+        },
+        {
+            "ticker": "GSDWW",
+            "price": "0.0183",
+            "change_amount": "0.0135",
+            "change_percentage": "281.25%",
+            "volume": "5504"
+        },
+        {
+            "ticker": "CUENW",
+            "price": "0.0198",
+            "change_amount": "0.0129",
+            "change_percentage": "186.9565%",
+            "volume": "500"
+        },
+        {
+            "ticker": "GSIW",
+            "price": "10.2",
+            "change_amount": "6.2",
+            "change_percentage": "155.0%",
+            "volume": "4934526"
+        },
+        {
+            "ticker": "NEXI",
+            "price": "6.05",
+            "change_amount": "3.58",
+            "change_percentage": "144.9393%",
+            "volume": "14123529"
+        },
+        {
+            "ticker": "RFACW",
+            "price": "0.0297",
+            "change_amount": "0.0173",
+            "change_percentage": "139.5161%",
+            "volume": "3825"
+        },
+        {
+            "ticker": "DPCSW",
+            "price": "0.018",
+            "change_amount": "0.01",
+            "change_percentage": "125.0%",
+            "volume": "1242"
+        },
+        {
+            "ticker": "FIACW",
+            "price": "0.035",
+            "change_amount": "0.019",
+            "change_percentage": "118.75%",
+            "volume": "227275"
+        },
+        {
+            "ticker": "KPLTW",
+            "price": "0.017",
+            "change_amount": "0.009",
+            "change_percentage": "112.5%",
+            "volume": "800"
+        },
+        {
+            "ticker": "CELUW",
+            "price": "0.0131",
+            "change_amount": "0.0069",
+            "change_percentage": "111.2903%",
+            "volume": "143297"
+        },
+        {
+            "ticker": "SXTPW",
+            "price": "0.048",
+            "change_amount": "0.023",
+            "change_percentage": "92.0%",
+            "volume": "1814"
+        },
+        {
+            "ticker": "LIDRW",
+            "price": "0.01",
+            "change_amount": "0.0047",
+            "change_percentage": "88.6792%",
+            "volume": "6472"
+        },
+        {
+            "ticker": "LEXXW",
+            "price": "0.7751",
+            "change_amount": "0.3551",
+            "change_percentage": "84.5476%",
+            "volume": "1000"
+        },
+        {
+            "ticker": "SBXC+",
+            "price": "0.1805",
+            "change_amount": "0.0805",
+            "change_percentage": "80.5%",
+            "volume": "200"
+        },
+        {
+            "ticker": "ACAXR",
+            "price": "0.18",
+            "change_amount": "0.08",
+            "change_percentage": "80.0%",
+            "volume": "2249"
+        },
+        {
+            "ticker": "KERNW",
+            "price": "0.0198",
+            "change_amount": "0.0087",
+            "change_percentage": "78.3784%",
+            "volume": "4231"
+        },
+        {
+            "ticker": "SHCRW",
+            "price": "0.0377",
+            "change_amount": "0.0165",
+            "change_percentage": "77.8302%",
+            "volume": "934349"
+        },
+        {
+            "ticker": "NXGLW",
+            "price": "0.4",
+            "change_amount": "0.1702",
+            "change_percentage": "74.0644%",
+            "volume": "4048"
+        },
+        {
+            "ticker": "DHACW",
+            "price": "0.0182",
+            "change_amount": "0.0074",
+            "change_percentage": "68.5185%",
+            "volume": "1696"
+        }
+    ],
+    "top_losers": [
+        {
+            "ticker": "CFIVW",
+            "price": "0.0004",
+            "change_amount": "-0.0011",
+            "change_percentage": "-73.3333%",
+            "volume": "84396"
+        },
+        {
+            "ticker": "HSCSW",
+            "price": "0.04",
+            "change_amount": "-0.06",
+            "change_percentage": "-60.0%",
+            "volume": "400"
+        },
+        {
+            "ticker": "HOFVW",
+            "price": "0.0081",
+            "change_amount": "-0.0118",
+            "change_percentage": "-59.2965%",
+            "volume": "9357"
+        },
+        {
+            "ticker": "KWESW",
+            "price": "0.07",
+            "change_amount": "-0.0938",
+            "change_percentage": "-57.265%",
+            "volume": "140"
+        },
+        {
+            "ticker": "RFACR",
+            "price": "0.077",
+            "change_amount": "-0.0883",
+            "change_percentage": "-53.418%",
+            "volume": "100"
+        },
+        {
+            "ticker": "ARTLW",
+            "price": "0.005",
+            "change_amount": "-0.0052",
+            "change_percentage": "-50.9804%",
+            "volume": "35531"
+        },
+        {
+            "ticker": "CDIOW",
+            "price": "0.083",
+            "change_amount": "-0.081",
+            "change_percentage": "-49.3902%",
+            "volume": "58256"
+        },
+        {
+            "ticker": "CDAQW",
+            "price": "0.0418",
+            "change_amount": "-0.0382",
+            "change_percentage": "-47.75%",
+            "volume": "167927"
+        },
+        {
+            "ticker": "PEPLW",
+            "price": "0.01",
+            "change_amount": "-0.009",
+            "change_percentage": "-47.3684%",
+            "volume": "58274"
+        },
+        {
+            "ticker": "GROY+",
+            "price": "0.0316",
+            "change_amount": "-0.0284",
+            "change_percentage": "-47.3333%",
+            "volume": "17231"
+        },
+        {
+            "ticker": "AMPE",
+            "price": "3.04",
+            "change_amount": "-2.72",
+            "change_percentage": "-47.2222%",
+            "volume": "880926"
+        },
+        {
+            "ticker": "TNONW",
+            "price": "0.0276",
+            "change_amount": "-0.0245",
+            "change_percentage": "-47.025%",
+            "volume": "700"
+        },
+        {
+            "ticker": "GB+",
+            "price": "0.0701",
+            "change_amount": "-0.0606",
+            "change_percentage": "-46.3657%",
+            "volume": "42718"
+        },
+        {
+            "ticker": "POLA",
+            "price": "0.455",
+            "change_amount": "-0.393",
+            "change_percentage": "-46.3443%",
+            "volume": "1975792"
+        },
+        {
+            "ticker": "CDTTW",
+            "price": "0.06",
+            "change_amount": "-0.05",
+            "change_percentage": "-45.4545%",
+            "volume": "380"
+        },
+        {
+            "ticker": "VRMEW",
+            "price": "0.011",
+            "change_amount": "-0.0091",
+            "change_percentage": "-45.2736%",
+            "volume": "26000"
+        },
+        {
+            "ticker": "SMFL",
+            "price": "1.36",
+            "change_amount": "-1.05",
+            "change_percentage": "-43.5685%",
+            "volume": "1026770"
+        },
+        {
+            "ticker": "BMTX+",
+            "price": "0.043",
+            "change_amount": "-0.0249",
+            "change_percentage": "-36.6716%",
+            "volume": "12700"
+        },
+        {
+            "ticker": "IVCBW",
+            "price": "0.128",
+            "change_amount": "-0.072",
+            "change_percentage": "-36.0%",
+            "volume": "1002"
+        },
+        {
+            "ticker": "BTBDW",
+            "price": "0.09",
+            "change_amount": "-0.05",
+            "change_percentage": "-35.7143%",
+            "volume": "8600"
+        }
+    ],
+    "most_actively_traded": [
+        {
+            "ticker": "BETS",
+            "price": "0.0388",
+            "change_amount": "0.0117",
+            "change_percentage": "43.1734%",
+            "volume": "414313708"
+        },
+        {
+            "ticker": "GGE",
+            "price": "0.3049",
+            "change_amount": "0.1217",
+            "change_percentage": "66.4301%",
+            "volume": "203385033"
+        },
+        {
+            "ticker": "SQQQ",
+            "price": "15.895",
+            "change_amount": "-0.125",
+            "change_percentage": "-0.7803%",
+            "volume": "122722250"
+        },
+        {
+            "ticker": "TSLA",
+            "price": "238.83",
+            "change_amount": "-1.25",
+            "change_percentage": "-0.5207%",
+            "volume": "120812848"
+        },
+        {
+            "ticker": "PFE",
+            "price": "28.8935",
+            "change_amount": "-1.5765",
+            "change_percentage": "-5.1739%",
+            "volume": "103193120"
+        },
+        {
+            "ticker": "ALT",
+            "price": "3.57",
+            "change_amount": "0.41",
+            "change_percentage": "12.9747%",
+            "volume": "100543793"
+        },
+        {
+            "ticker": "TQQQ",
+            "price": "44.24",
+            "change_amount": "0.37",
+            "change_percentage": "0.8434%",
+            "volume": "86041562"
+        },
+        {
+            "ticker": "SPY",
+            "price": "459.03",
+            "change_amount": "2.63",
+            "change_percentage": "0.5762%",
+            "volume": "84557380"
+        },
+        {
+            "ticker": "MCOM",
+            "price": "0.0125",
+            "change_amount": "-0.001",
+            "change_percentage": "-7.4074%",
+            "volume": "81928271"
+        },
+        {
+            "ticker": "SOXS",
+            "price": "8.34",
+            "change_amount": "-0.11",
+            "change_percentage": "-1.3018%",
+            "volume": "79765192"
+        },
+        {
+            "ticker": "HCDI",
+            "price": "1.12",
+            "change_amount": "0.2599",
+            "change_percentage": "30.2174%",
+            "volume": "78966451"
+        },
+        {
+            "ticker": "HUBC",
+            "price": "0.285",
+            "change_amount": "0.052",
+            "change_percentage": "22.3176%",
+            "volume": "69948161"
+        },
+        {
+            "ticker": "MULN",
+            "price": "0.1635",
+            "change_amount": "0.0115",
+            "change_percentage": "7.5658%",
+            "volume": "69315267"
+        },
+        {
+            "ticker": "SOFI",
+            "price": "7.83",
+            "change_amount": "0.54",
+            "change_percentage": "7.4074%",
+            "volume": "68546503"
+        },
+        {
+            "ticker": "GMBL",
+            "price": "0.0186",
+            "change_amount": "-0.0001",
+            "change_percentage": "-0.5348%",
+            "volume": "65321614"
+        },
+        {
+            "ticker": "TLT",
+            "price": "92.99",
+            "change_amount": "1.7189",
+            "change_percentage": "1.8833%",
+            "volume": "63652253"
+        },
+        {
+            "ticker": "F",
+            "price": "10.575",
+            "change_amount": "0.315",
+            "change_percentage": "3.0702%",
+            "volume": "61463210"
+        },
+        {
+            "ticker": "IWM",
+            "price": "184.96",
+            "change_amount": "5.3",
+            "change_percentage": "2.95%",
+            "volume": "61049337"
+        },
+        {
+            "ticker": "PLTR",
+            "price": "20.275",
+            "change_amount": "0.225",
+            "change_percentage": "1.1222%",
+            "volume": "60503894"
+        },
+        {
+            "ticker": "HYG",
+            "price": "75.97",
+            "change_amount": "0.6039",
+            "change_percentage": "0.8013%",
+            "volume": "60216339"
+        }
+    ]
+}
