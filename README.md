@@ -25,3 +25,4 @@ Stock Projections Tracker Web Application for viewing and managing portfolio inv
     Windows: `.venv\Scripts\activate`
 4. Install requirements `pip install -r requirements.txt`
 5. Start server using `uvicorn api.main:app --reload`
+
